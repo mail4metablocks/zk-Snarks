@@ -35,3 +35,17 @@ zokrates-go: This is a toolkit for implementing zk-SNARKs and other zero-knowled
 zkp: This library is a Go implementation of the zkp (Zero-Knowledge Protocols) library, which is a collection of tools and libraries for implementing zero-knowledge proofs. It includes support for zk-SNARKs and other types of zero-knowledge proofs, and provides a convenient interface for working with them in Go.
 
 These are just a few examples of the libraries available for implementing zk-SNARKs in Go. There are many other options available, and the choice of library will depend on the specific needs and requirements of your application.
+
+### Books for reading
+
+Some useful books to help you develop these skills and knowledge include:
+
+"Introduction to Cryptography" by Johannes Buchmann: This book provides a comprehensive introduction to cryptography, covering both the mathematical foundations and practical applications of modern cryptographic techniques.
+
+"Cryptography Engineering: Design Principles and Practical Applications" by Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno: This book provides a broad introduction to cryptography, including chapters on key exchange, symmetric and asymmetric encryption, hash functions, and other important topics.
+
+"Applied Cryptography: Protocols, Algorithms, and Source Code in C" by Bruce Schneier: This book is a classic reference on cryptography, covering a wide range of cryptographic techniques and protocols. It includes numerous examples and source code snippets to help you understand how cryptographic algorithms work.
+
+"Cryptography for Developers" by Jack D. Herrington: This book is designed specifically for software developers who want to learn more about cryptography. It covers the basics of cryptographic techniques and protocols, and provides practical examples and code snippets to help you get started with cryptographic programming.
+
+"The Mathematics of Information Security" by Steven G. Krantz: This book provides a comprehensive introduction to the mathematical foundations of information security, including chapters on number theory, algebra, probability, and statistics.
