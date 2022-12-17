@@ -21,3 +21,17 @@ jubjub: This library is a Rust implementation of the jubjub curve, which is a cu
 zokrates: This is a toolkit for implementing zk-SNARKs and other zero-knowledge protocols in the Rust programming language. It provides a high-level interface for working with zk-SNARKs and makes it easy to write custom zero-knowledge proofs.
 
 These are just a few examples of the libraries available for implementing zk-SNARKs in Rust. There are many other options available, and the choice of library will depend on the specific needs and requirements of your application.
+
+## zk-Snarks libraries in Golang
+
+There are several popular libraries for implementing zk-SNARKs in the Go programming language. Some of the most well-known libraries include:
+
+go-libsnark: This library is a Go implementation of the libsnark library, which is a C++ library for generating and verifying zk-SNARK proofs. go-libsnark provides a Go-friendly interface to libsnark and is designed to be easy to use.
+
+bellman: This library is a Go implementation of the Bellman zk-SNARK library, which is a high-performance library for generating and verifying zk-SNARK proofs. It provides a convenient and efficient interface for working with zk-SNARKs in Go.
+
+zokrates-go: This is a toolkit for implementing zk-SNARKs and other zero-knowledge protocols in the Go programming language. It provides a high-level interface for working with zk-SNARKs and makes it easy to write custom zero-knowledge proofs.
+
+zkp: This library is a Go implementation of the zkp (Zero-Knowledge Protocols) library, which is a collection of tools and libraries for implementing zero-knowledge proofs. It includes support for zk-SNARKs and other types of zero-knowledge proofs, and provides a convenient interface for working with them in Go.
+
+These are just a few examples of the libraries available for implementing zk-SNARKs in Go. There are many other options available, and the choice of library will depend on the specific needs and requirements of your application.
